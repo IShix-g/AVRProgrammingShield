@@ -24,3 +24,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+.idea/.idea.AVRProgrammingShield.dir/.idea
+KiCad/ProgrammingShield V1.0-backups
